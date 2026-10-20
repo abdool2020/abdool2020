@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated SENS manuscript and the public implementation."
+title: "SENS: Reproducible Reference Implementation for Fourth-Order Structural Mechanics"
+version: 1.0.0
+date-released: 2026-10-20
+authors:
+  - family-names: Beitalmal
+    given-names: "Abdusslam Osman"
+repository-code: "https://github.com/abdool2020/abdool2020/tree/main/sens-fourth-order-structural-mechanics"
+license: MIT
