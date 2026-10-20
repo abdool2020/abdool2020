@@ -1,0 +1,10 @@
+Environment snapshot recorded when preparing the reference implementation package
+Python: 3.13.5
+PyTorch: 2.10.0+cpu
+NumPy: 2.3.5
+pandas: 2.2.3
+Matplotlib: 3.10.8
+SciPy: 1.17.0
+Device: CPU; deterministic PyTorch algorithms are enabled in sens_core.py
+
+Provenance: this is the editing environment snapshot, not a recovered record of the historical environment used for earlier manuscript experiments. The accompanying SENS code is explicitly an independently reconstructed reference implementation, not a historical training script.
