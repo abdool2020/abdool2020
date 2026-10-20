@@ -9,12 +9,29 @@
   "epochs_refinement": 1200,
   "epochs_noise": 1200,
   "epochs_load_cases": 1200,
-  "seeds": [17, 29, 41],
+  "seeds": [
+    17,
+    29,
+    41
+  ],
   "comparison_collocation_points": 100,
   "spectral_test_modes": 10,
-  "pinn_boundary_weight": 100.0,
+  "pinn_boundary_weight": 100,
   "evaluation_points": 401,
-  "refinement_points": [25, 50, 100, 200],
-  "fd_reference_intervals": 400,
-  "noise_levels": [0.0, 0.02, 0.05, 0.1]
+  "refinement_points": [
+    25,
+    50,
+    100,
+    200,
+    400,
+    800,
+    1600
+  ],
+  "fd_reference_intervals": 1600,
+  "noise_levels": [
+    0,
+    0.02,
+    0.05,
+    0.1
+  ]
 }
